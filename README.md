@@ -12,10 +12,10 @@
 - **Programming & Scripting:** Python, SQL, PySpark, Scala, TypeScript, R  
 - **Big Data & ETL:** Apache Spark, Kafka, Flink, Airflow, Hadoop, AWS Glue, Azure Data Factory, dbt  
 - **Cloud Platforms:** AWS (S3, Redshift, SageMaker, Lambda), Azure (Synapse, Event Hubs, Purview), GCP (BigQuery, Vertex AI), Databricks
-- **Data Modeling & Warehousing:** Redshift, Snowflake, BigQuery, PostgreSQL, SQL Server, Data Vault, CDC  
-- **Streaming & Real-Time:** Kafka Connect, AWS Kinesis, Debezium, Redis Streams  
+- **Data Modeling & Warehousing:** Snowflake, PostgreSQL, SQL Server, Data Vault, CDC  
+- **Streaming & Real-Time:** Kafka Connect, AWS Kinesis, Redis Streams  
 - **Visualization & BI:** Power BI, Tableau, Streamlit, Plotly Dash  
-- **ML & AI:** Hugging Face Transformers, LLM Pipelines (RAG, NL2SQL), scikit-learn, TensorFlow, SageMaker, spaCy  
+- **ML & AI:** Hugging Face Transformers, LLM Pipelines (RAG), scikit-learn, TensorFlow, spaCy  
 - **Ops & Governance:** Docker, Kubernetes, CI/CD (GitHub Actions), Great Expectations, Prometheus, Grafana, Monte Carlo  
 
 ---
