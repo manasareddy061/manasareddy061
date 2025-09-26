@@ -37,17 +37,12 @@ LLM-powered app that converts natural language to SQL with schema parsing, safe 
 
 ---
 
-## 🎓 Education
+## 💡 Interests  
 
-- **M.S. in Data Science** — University at Buffalo, SUNY (2025)  
-- **B.Tech in Electronics & Communication Engineering** — IARE, India (2022)  
-
----
-
-## 🏅 Certifications
-
-- **AWS Certified Data Engineer – Associate**  
-- **Databricks Data Engineering**  
+- Turning raw data into intelligent, production-ready AI/ML systems  
+- Building scalable pipelines and real-time decision engines  
+- Exploring cloud, big data, and generative AI to drive innovation  
+- Applying algorithms and analytics to deliver measurable business impact  
 
 ---
 
@@ -58,8 +53,6 @@ LLM-powered app that converts natural language to SQL with schema parsing, safe 
 - 🐙 [GitHub](https://github.com/manasareddy061)  
 
 ---
-
-⭐️ From [Manasa Lakshmi](https://github.com/manasareddy061)
 
 <!--
 **manasareddy061/manasareddy061** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
