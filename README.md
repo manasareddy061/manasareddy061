@@ -1,9 +1,8 @@
-
 # Hi, I'm Manasa 👋
 
-🎓 **M.S. in Data Science** — University at Buffalo (SUNY)(Graduated -May 2025)
-💼 Aspiring **Data / Analytics / ML Engineer /AI Engineer** | Actively seeking full-time opportunities in the U.S.  
-🌎 Based in USA | Open to remote, hybrid ,Onsite roles  
+🎓 **M.S. in Data Science** — University at Buffalo (SUNY) (Graduated - May 2025)  
+💼 Aspiring **Data / Analytics / ML Engineer / AI Engineer** | Actively seeking full-time opportunities in the U.S.  
+🌎 Based in USA | Open to remote, hybrid, onsite roles  
 
 ---
 
