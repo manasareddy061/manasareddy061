@@ -30,24 +30,10 @@ LLM-powered app that converts natural language to SQL with schema parsing, safe 
 ## 📊 Experience
 
 - **AI/ML Engineer — COPANI (2025–Present)**  
-  - Designed Spark/PyArrow ETL pipelines (+35% speed).  
-  - Architected Kafka + Airflow ingestion (+45% freshness).  
-  - Built Hugging Face ML pipelines (+31% accuracy).  
-  - Deployed low-latency Flask/FastAPI services with monitoring.
-
 - **Student Assistant (Data Engineering) — University at Buffalo (2024–2025)**  
-  - Built dashboards with Snowflake SQL (−30% delivery time).  
-  - Automated metadata pipelines with OpenRefine (−40% manual errors).  
-
 - **Data Engineer — Accenture (2022–2023)**  
-  - Managed 2TB/day SAP pipelines on PySpark + AWS Glue.  
-  - Automated data quality checks with Great Expectations.  
-
 - **Associate Data Engineer — Cognizant (2022)**  
-  - Built Azure Data Factory + Kafka pipelines for batch & streaming.  
-
 - **Data Analyst — Sai Kiran & Associates (2021–2022)**  
-  - Built Power BI dashboards, improved financial reporting (+20% speed).  
 
 ---
 
